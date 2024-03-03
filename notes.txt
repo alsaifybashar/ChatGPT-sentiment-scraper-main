@@ -1,0 +1,2613 @@
+'selftext': '[removed]'
+'author': '[deleted]'
+
+
+
+
+
+
+
+
+##################################################
+https://www.reddit.com/wiki/search/
+
+Search within communities
+ then search in communities
+
+FIELD 1:
+Relevance     - Default
+Hot           - Posts that have recently been getting interaction
+Top           - Prioritizes posts that have all-time high upvote numbers and comments
+New           - Prioritizes the newest posts, regardless of interactions
+Most Comments - Prioritizes posts that have the most comments
+
+
+FIELD 2:
+self      - Filter by text post. Set to true to filter to only text posts, false otherwise.
+            For example, self:true
+selftext  - The body of the post.
+            For example, selftext:cats
+subreddit - The submission 's subreddit.
+            For example, subreddit:cats
+title     - The submission title.
+            For example, title:cats
+
+
+FIELD 3:
+Hour
+Day
+Week
+Month
+Year
+All
+
+
+FIELD 4:
+chatGPT AND (privacy OR security OR society OR economy)
+chatGPT AND privacy
+chatGPT AND security
+chatGPT AND society
+chatGPT AND economy
+
+PART 1 (exstract subreddits):
+1: iterate over post to exstract subreddits
+
+PART 2 (exstract posts):
+1: same but extract
+
+PART 2 (exstract comments L1&2):
+1: same but extract
+
+
+[2023-03-03 10:49:14] GOOD   : Found a total of 2699, compared to 27179 fetched
+
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'all', 'relevance') found 227
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'all', 'hot') found 232
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'all', 'top') found 240
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'all', 'new') found 240
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'all', 'comments') found 238
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'hour', 'relevance') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'hour', 'hot') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'hour', 'top') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'hour', 'new') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'hour', 'comments') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'day', 'relevance') found 11
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'day', 'hot') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'day', 'top') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'day', 'new') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'day', 'comments') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'week', 'relevance') found 83
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'week', 'hot') found 62
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'week', 'top') found 62
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'week', 'new') found 62
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'week', 'comments') found 62
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'month', 'relevance') found 230
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'month', 'hot') found 232
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'month', 'top') found 231
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'month', 'new') found 240
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'month', 'comments') found 230
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'year', 'relevance') found 227
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'year', 'hot') found 232
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'year', 'top') found 240
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'year', 'new') found 240
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy', 'year', 'comments') found 238
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'all', 'relevance') found 238
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'all', 'hot') found 241
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'all', 'top') found 245
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'all', 'new') found 242
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'all', 'comments') found 238
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'hour', 'relevance') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'hour', 'hot') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'hour', 'top') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'hour', 'new') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'hour', 'comments') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'day', 'relevance') found 30
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'day', 'hot') found 26
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'day', 'top') found 26
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'day', 'new') found 26
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'day', 'comments') found 26
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'week', 'relevance') found 242
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'week', 'hot') found 207
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'week', 'top') found 207
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'week', 'new') found 207
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'week', 'comments') found 207
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'month', 'relevance') found 226
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'month', 'hot') found 241
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'month', 'top') found 241
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'month', 'new') found 242
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'month', 'comments') found 228
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'year', 'relevance') found 236
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'year', 'hot') found 241
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'year', 'top') found 246
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'year', 'new') found 242
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security', 'year', 'comments') found 239
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'all', 'relevance') found 236
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'all', 'hot') found 244
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'all', 'top') found 245
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'all', 'new') found 248
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'all', 'comments') found 243
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'hour', 'relevance') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'hour', 'hot') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'hour', 'top') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'hour', 'new') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'hour', 'comments') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'day', 'relevance') found 31
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'day', 'hot') found 28
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'day', 'top') found 28
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'day', 'new') found 28
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'day', 'comments') found 28
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'week', 'relevance') found 187
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'week', 'hot') found 162
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'week', 'top') found 162
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'week', 'new') found 162
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'week', 'comments') found 162
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'month', 'relevance') found 224
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'month', 'hot') found 244
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'month', 'top') found 240
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'month', 'new') found 248
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'month', 'comments') found 236
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'year', 'relevance') found 236
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'year', 'hot') found 244
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'year', 'top') found 245
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'year', 'new') found 248
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society', 'year', 'comments') found 243
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'all', 'relevance') found 234
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'all', 'hot') found 234
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'all', 'top') found 242
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'all', 'new') found 242
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'all', 'comments') found 241
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'hour', 'relevance') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'hour', 'hot') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'hour', 'top') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'hour', 'new') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'hour', 'comments') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'day', 'relevance') found 22
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'day', 'hot') found 20
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'day', 'top') found 20
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'day', 'new') found 20
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'day', 'comments') found 20
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'week', 'relevance') found 86
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'week', 'hot') found 69
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'week', 'top') found 69
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'week', 'new') found 69
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'week', 'comments') found 69
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'month', 'relevance') found 233
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'month', 'hot') found 235
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'month', 'top') found 233
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'month', 'new') found 242
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'month', 'comments') found 231
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'year', 'relevance') found 234
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'year', 'hot') found 234
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'year', 'top') found 242
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'year', 'new') found 242
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND economy', 'year', 'comments') found 242
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'all', 'relevance') found 217
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'all', 'hot') found 178
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'all', 'top') found 178
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'all', 'new') found 178
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'all', 'comments') found 178
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'hour', 'relevance') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'hour', 'hot') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'hour', 'top') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'hour', 'new') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'hour', 'comments') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'day', 'relevance') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'day', 'hot') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'day', 'top') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'day', 'new') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'day', 'comments') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'week', 'relevance') found 26
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'week', 'hot') found 23
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'week', 'top') found 23
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'week', 'new') found 23
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'week', 'comments') found 23
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'month', 'relevance') found 103
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'month', 'hot') found 88
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'month', 'top') found 88
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'month', 'new') found 88
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'month', 'comments') found 88
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'year', 'relevance') found 214
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'year', 'hot') found 176
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'year', 'top') found 176
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'year', 'new') found 176
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security', 'year', 'comments') found 176
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'all', 'relevance') found 55
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'all', 'hot') found 50
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'all', 'top') found 50
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'all', 'new') found 50
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'all', 'comments') found 50
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'hour', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'hour', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'hour', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'hour', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'hour', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'day', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'day', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'day', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'day', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'day', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'week', 'relevance') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'week', 'hot') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'week', 'top') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'week', 'new') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'week', 'comments') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'month', 'relevance') found 25
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'month', 'hot') found 20
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'month', 'top') found 20
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'month', 'new') found 20
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'month', 'comments') found 20
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'year', 'relevance') found 55
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'year', 'hot') found 50
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'year', 'top') found 50
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'year', 'new') found 50
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society', 'year', 'comments') found 50
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'all', 'relevance') found 47
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'all', 'hot') found 41
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'all', 'top') found 41
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'all', 'new') found 41
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'all', 'comments') found 41
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'hour', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'hour', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'hour', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'hour', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'hour', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'day', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'day', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'day', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'day', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'day', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'week', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'week', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'week', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'week', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'week', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'month', 'relevance') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'month', 'hot') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'month', 'top') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'month', 'new') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'month', 'comments') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'year', 'relevance') found 47
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'year', 'hot') found 41
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'year', 'top') found 41
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'year', 'new') found 41
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND economy', 'year', 'comments') found 41
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'all', 'relevance') found 145
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'all', 'hot') found 135
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'all', 'top') found 135
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'all', 'new') found 135
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'all', 'comments') found 135
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'hour', 'relevance') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'hour', 'hot') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'hour', 'top') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'hour', 'new') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'hour', 'comments') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'day', 'relevance') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'day', 'hot') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'day', 'top') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'day', 'new') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'day', 'comments') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'week', 'relevance') found 23
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'week', 'hot') found 22
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'week', 'top') found 22
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'week', 'new') found 22
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'week', 'comments') found 22
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'month', 'relevance') found 76
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'month', 'hot') found 69
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'month', 'top') found 69
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'month', 'new') found 69
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'month', 'comments') found 69
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'year', 'relevance') found 144
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'year', 'hot') found 134
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'year', 'top') found 134
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'year', 'new') found 134
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society', 'year', 'comments') found 134
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'all', 'relevance') found 134
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'all', 'hot') found 122
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'all', 'top') found 122
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'all', 'new') found 122
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'all', 'comments') found 122
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'hour', 'relevance') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'hour', 'hot') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'hour', 'top') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'hour', 'new') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'hour', 'comments') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'day', 'relevance') found 4
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'day', 'hot') found 4
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'day', 'top') found 4
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'day', 'new') found 4
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'day', 'comments') found 4
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'week', 'relevance') found 11
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'week', 'hot') found 9
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'week', 'top') found 9
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'week', 'new') found 9
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'week', 'comments') found 9
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'month', 'relevance') found 61
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'month', 'hot') found 53
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'month', 'top') found 53
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'month', 'new') found 53
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'month', 'comments') found 53
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'year', 'relevance') found 134
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'year', 'hot') found 122
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'year', 'top') found 122
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'year', 'new') found 122
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND economy', 'year', 'comments') found 122
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'all', 'relevance') found 147
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'all', 'hot') found 139
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'all', 'top') found 139
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'all', 'new') found 139
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'all', 'comments') found 139
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'hour', 'relevance') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'hour', 'hot') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'hour', 'top') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'hour', 'new') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'hour', 'comments') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'day', 'relevance') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'day', 'hot') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'day', 'top') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'day', 'new') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'day', 'comments') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'week', 'relevance') found 12
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'week', 'hot') found 11
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'week', 'top') found 11
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'week', 'new') found 11
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'week', 'comments') found 11
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'month', 'relevance') found 60
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'month', 'hot') found 56
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'month', 'top') found 56
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'month', 'new') found 56
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'month', 'comments') found 56
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'year', 'relevance') found 146
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'year', 'hot') found 139
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'year', 'top') found 139
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'year', 'new') found 139
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND society AND economy', 'year', 'comments') found 139
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'all', 'relevance') found 25
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'all', 'hot') found 24
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'all', 'top') found 24
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'all', 'new') found 24
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'all', 'comments') found 24
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'hour', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'hour', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'hour', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'hour', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'hour', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'day', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'day', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'day', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'day', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'day', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'week', 'relevance') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'week', 'hot') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'week', 'top') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'week', 'new') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'week', 'comments') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'month', 'relevance') found 11
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'month', 'hot') found 10
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'month', 'top') found 10
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'month', 'new') found 10
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'month', 'comments') found 10
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'year', 'relevance') found 25
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'year', 'hot') found 24
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'year', 'top') found 24
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'year', 'new') found 24
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society', 'year', 'comments') found 24
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'all', 'relevance') found 27
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'all', 'hot') found 27
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'all', 'top') found 27
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'all', 'new') found 27
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'all', 'comments') found 27
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'hour', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'hour', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'hour', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'hour', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'hour', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'day', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'day', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'day', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'day', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'day', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'week', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'week', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'week', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'week', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'week', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'month', 'relevance') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'month', 'hot') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'month', 'top') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'month', 'new') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'month', 'comments') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'year', 'relevance') found 27
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'year', 'hot') found 27
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'year', 'top') found 27
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'year', 'new') found 27
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND economy', 'year', 'comments') found 27
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'all', 'relevance') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'all', 'hot') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'all', 'top') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'all', 'new') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'all', 'comments') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'hour', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'hour', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'hour', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'hour', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'hour', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'day', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'day', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'day', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'day', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'day', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'week', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'week', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'week', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'week', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'week', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'month', 'relevance') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'month', 'hot') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'month', 'top') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'month', 'new') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'month', 'comments') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'year', 'relevance') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'year', 'hot') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'year', 'top') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'year', 'new') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND society AND economy', 'year', 'comments') found 7
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'all', 'relevance') found 29
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'all', 'hot') found 29
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'all', 'top') found 29
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'all', 'new') found 29
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'all', 'comments') found 29
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'hour', 'relevance') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'hour', 'hot') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'hour', 'top') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'hour', 'new') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'hour', 'comments') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'day', 'relevance') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'day', 'hot') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'day', 'top') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'day', 'new') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'day', 'comments') found 1
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'week', 'relevance') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'week', 'hot') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'week', 'top') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'week', 'new') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'week', 'comments') found 3
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'month', 'relevance') found 12
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'month', 'hot') found 12
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'month', 'top') found 12
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'month', 'new') found 12
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'month', 'comments') found 12
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'year', 'relevance') found 29
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'year', 'hot') found 29
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'year', 'top') found 29
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'year', 'new') found 29
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND security AND society AND economy', 'year', 'comments') found 29
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'all', 'relevance') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'all', 'hot') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'all', 'top') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'all', 'new') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'all', 'comments') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'hour', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'hour', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'hour', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'hour', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'hour', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'day', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'day', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'day', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'day', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'day', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'week', 'relevance') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'week', 'hot') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'week', 'top') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'week', 'new') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'week', 'comments') found 0
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'month', 'relevance') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'month', 'hot') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'month', 'top') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'month', 'new') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'month', 'comments') found 2
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'year', 'relevance') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'year', 'hot') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'year', 'top') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'year', 'new') found 6
+[2023-03-03 10:49:14] GOOD   : ('chatGPT AND privacy AND security AND society AND economy', 'year', 'comments') found 6
+
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPT has 832 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit privacy has 41 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cybersecurity has 19 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPTSucks has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit newsfeedmedia has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ThielWatch has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit evolutionReddit has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit hypeurls has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit devopsish has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit thirstfordata has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SAtechnews has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit privacyanddata has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit theconversation_au has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PrivacyGuides has 28 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit OpenAI has 85 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit longtail has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AAA_NeatStuff has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GOOOOODINTERNET has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit N_E_W_S has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit businesstalkdaily has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit theprivacydad has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit tutanota has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TopConspiracy has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit newsbotbot has 56 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MachineLearning has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit artificial has 95 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit exchristian has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ADHD_Programmers has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CryptoTechnology has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PygmalionAI has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AskNetsec has 57 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit indepthaskreddit has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit UXDesign has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPTGoneWild has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit adhdwomen has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit apple has 62 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CommunalShowers has 19 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Monero has 40 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Libraries has 24 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPTPro has 19 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit UXResearch has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cats has 39 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DeepThoughts has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit behindthebastards has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit EntrepreneurRideAlong has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit truebit has 21 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit conspiracy has 149 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit RealEstate has 22 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MensRights has 66 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Piracy has 22 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TimeworksSubmissions has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DefendingAIArt has 23 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit salesforce has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit browsers has 32 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit bing has 56 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit phonelosers has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit theworldnews has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit holochain has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit HikaruNakamura has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit technicalwriting has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ELATeachers has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit machinelearningnews has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Geometry has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit shortcuts has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit rocketbeans has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CCSP has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit datascienceproject has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CKsTechNews has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit replika has 24 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit 2ndIntelligentSpecies has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GoogleBarders has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit chrome has 27 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Nest has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit netsec has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TheCinemassacreTruth has 86 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_craigboy66 has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit tylerthecreator has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit descealetrashow has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit react has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_----chris---65 has 117 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_General-Regret5858 has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit BBIG has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit firefox has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPT4SearchEngines has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit traders_colony has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit gatewaynode has 77 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TheDecoder has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPT_Parents has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Destiny has 36 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit chrome_extensions has 47 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Jhonjournalist has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit QuantNetwork has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit scifi has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Jazzlike-Argument-67 has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit monerochan has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_DueConversation501 has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit interdatalink has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit JordanPeterson has 96 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit FutureNavigators has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ABCDesis has 21 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPT_Response has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit aiconvolibrary has 45 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GreenSeed has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GPT3 has 26 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AiChatGPT has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GPTChat has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit autotldr has 23 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit realtech has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ArtificialInteligence has 17 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MLQuestions has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AIandRobotics has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit HolUp has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit consulting has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Bing_ChatGPT has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CharacterAI has 19 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChineseLanguage has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit brave_browser has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit nocode has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CryptoCurrencyMeta has 52 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SaimanSays has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit VaushV has 52 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CryptoCurrency has 180 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Crataco has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_thespuzz has 45 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit oasisnetwork has 17 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Essay_Experts has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GPT_jailbreaks has 64 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit steamsupport has 44 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit singularity has 122 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CryptoDailyTLDR has 43 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit blockchaindeveloper has 41 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_laqiraprotocol has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPTCoding has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AIAssistedArticles has 449 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit redscarepod has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit BINGChat has 37 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit learnmachinelearning has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Nathan has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGptDAN has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit aiideas has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit IncreasinglyVerbose has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DBC_Council has 41 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Shadowrun has 25 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Pixel6 has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Luxembourg has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_HFCPA has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit udemyfreeebies has 90 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit udemyfreebies has 114 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Udemy has 63 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit OffMyChestPH has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit hablemosdeAI has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit italy has 34 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit barexam has 78 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit nyu has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Beginning_Gas_4542 has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit WriteStreakEN has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TransLater has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit interestingasfuck has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Entrepreneur has 23 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AIDungeon has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit fourthwavewomen has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit indonesia has 198 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit BATProject has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit danganronpa has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit beermoney has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit marketing has 21 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit nerdfighters has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit memes has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MetaFilterMeta has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cardano has 701 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit socialmedia has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PLTR has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ProtocolGemini has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CryptoCurrencies has 23 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Centrelink has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit firewalla has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_lazymentors has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Catholicism has 50 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CloudResearchConnect has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit adops has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit gdpr has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GrowthHacking has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit startup has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Marketingcurated has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit soundboardpranks has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Debate has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit WorkOnline has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GalaxyS23 has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit IndianModerate has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit wmafs has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ladybusiness has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit nordvpn has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit oceanprotocol has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ADHD has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NewToEMS has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ConspiracyDiscussions has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_digitalbazaari has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit theplenum has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit WPAannouncements has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit applescript has 23 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit changemyview has 26 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Domains has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ProgrammerHumor has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit mildlyinfuriating has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit QuantumArchaeology has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DigitalMarketing has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit advertising has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit solotravel has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit urbancarliving has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit shopify has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit careerguidance has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit real_China_irl has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit OnePlus7Pro has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit thedailyzeitgeist has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit surfshark has 63 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit enfrancais has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_vinaphonelienhe has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit pcmasterrace has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit RedditTLDR has 19 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit chatgpt_newtech has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AppConsulting has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Socialpreneur has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit webdev has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit theFastVPN has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Futurology has 50 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TrueReddit has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit technology has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DarkFuturology has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit BasicIncome has 55 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit lostgeneration has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit YangForPresidentHQ has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit FamilyMedicine has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Technoblade has 36 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Digibyte has 24 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ScottSantens has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit spixnet_gmbh_official has 21 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit JohnFinnemore has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AskReddit has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AutoNewspaper has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit All_About_Hackers has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Urecomm has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TELEGRAPHauto has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit StockMarket has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Regular_System6228 has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cyber_monday has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MSSP has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit torchsecuritynet has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit chatgpt_promptDesign has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AnarchyChess has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SpacePolicy has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit InfoSecWriteups has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit amibeingdetained has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ThesisCapitalStocks has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Slovenia has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit antiwork has 76 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SmashingSecurity has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit powerpuffgirls has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ProductManagement has 23 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit chatGPTv4 has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit msp has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit sysadmin has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit healthIT has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ExploitDev has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPTofficial has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Flyers has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CK2GameOfthrones has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit gis has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MeneamePortada has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ValueInvesting has 42 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ReverseEngineering has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit tech has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit LoveForLandchads has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit free_market_anarchism has 56 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit networkingmemes has 23 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CroIT has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit BravoRealHousewives has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SatoshiStreetBets has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit programminghumor has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit midjourney has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit fuzzing has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit foreignservice has 30 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit v8supercars has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GrandTheftAutoV has 22 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit gme_meltdown has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SilverDegenClub has 48 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit pakistan has 30 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit FetchAI_Community has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PSVR has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit hypeurlsposts has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit WhitePeopleTwitter has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Permaculture has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit sweatystartup has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit WorldofTanks has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Accounting has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit balkans_irl has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit nuclearweapons has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit electricians has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AussieCasual has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Jungle_Mains has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit steinsgate has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PhD has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit asheville has 17 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ufc has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TheBlackList has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Anarcho_Capitalism has 112 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CPA has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Splintercell has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Wallstreetsilver has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Xenosaga has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit heroesofthestorm has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Meditation has 33 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit weeklyplanetpodcast has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit LowSodiumDestiny has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit HamRadio has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit amcstock has 23 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Fallout2d20 has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CrucibleGuidebook has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit linuxmasterrace has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit chabad has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit recruitinghell has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit linuxmemes has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SideProject has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit dogecoin has 36 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit QualityAssurance has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit exmormon has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit oscp has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Chainsawfolk has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit peoplejustdonothing has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NevilleGoddard has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AMCSTOCKS has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GME has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit hoggit has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit paralegal has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cissp has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit IndianStreetBets has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPT_LegalAdviceUS has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Huawei has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit govcon has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit growtopia has 35 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Grimdank has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CapitalismVSocialism has 35 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit WillPatersonDesign has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CrucibleSherpa has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit formuladank has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GTA has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Felons has 23 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit paydaytheheist has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Malwarebytes has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit developersIndia has 19 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit defi has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit JurassicPark has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Parenting has 19 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DeepRockGalactic has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TristanaMains has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CFB has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_MuLoginBrowser has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_waynerad has 44 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_TheOrangeBear_Com has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Thaniga_2023 has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_GoldAndBlackRule has 47 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit OMSxSBH has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Hour-Loquat3236 has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit KAVIFeed has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Winnipeg has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPTde has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit QuestionsToChatGPT has 40 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit StableDiffusion has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit mysql has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit make_money_online_vip has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_ajo4online has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit QuirkIdeas has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit HalfLife has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPTsays has 47 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Conflux_Network has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit chess has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ThePortal has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CryptoMoonShots has 26 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Alonetv has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit aiscreenwriting has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit shitposting has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TheSimpsons has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit FallGuysGame has 27 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DystopianFuture has 46 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit bdsmFurnitureWorkshop has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TRKA has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit lebanon has 41 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit 40kmemes has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MauraMurraySub has 17 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit inazumaeleven has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Paradot has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Buck_Joffrey has 159 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit WIMI has 59 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit UltimateTraders has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AIOutliners has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ffmpeg has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AIAssistedPrompts has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GrayWolfOnStocks has 28 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_InvestmentMasterUK has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ETFs has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Warframe has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Republica_Colombia has 23 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Newudemy has 21 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit berkeley has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit windows has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit mbta has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Charles_talks_Stock has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ada has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_RichieAI has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit selfhosted has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_technicalbeep has 22 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ArtificialInsanity has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cism has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Superstonk has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NFA has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit RunningShoeGeeks has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Cartalk has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit datascience has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit blankies has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit nflmemes has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPT_FR has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit EnoughMuskSpam has 25 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit socialism has 52 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Buttcoin has 27 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TransparentMarkets has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Suomi has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ExperiencedDevs has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CollapseSupport has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit VXJunkies has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit emotionalneglect has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MBA has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TheClickOwO has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit bladesinthedark has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CrackheadCraigslist has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit hacking has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit homeautomation has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit freelanceWriters has 36 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit spikes has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Colombia has 27 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit superstonkuk has 26 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit betterCallSaul has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit wallstreetbets has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit sideloaded has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit BritishSuccess has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit socialwork has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TownofSalemgame has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit moreplatesmoredates has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChurchOfCOVID has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Brewers has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TopMindsOfReddit has 51 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Daytrading has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit loopringorg has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit nanocurrency has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AirForce has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Quebec has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPTJailbreak has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AttackOnRetards has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SafeMoon has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit resumes has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DirtySionMains has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SpaceForce has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit the_darnold has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PoliticalHumor has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Ankrofficial has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit overpopulation has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DataHoarder has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit depechemode has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NewIran has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Pen_Swap has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit premedcanada has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit 196 has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Scorpio has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit palmy has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cscareerquestionsEU has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NDQ has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit algorand has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit computerwargames has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit WindowsVista has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit bitcoin_uncensored has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit csMajors has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit nbacirclejerk has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit thecampaigntrail has 37 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit sidehustle has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit solana has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit beyond_uranus has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Khushisondhi7 has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Cryptomeric has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit microsaas has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SaaS has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit breakingbad has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit airlines has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit FREECoursesEveryday has 42 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit golang has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit WowIActuallyHateThis has 41 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SubSimGPT2Interactive has 47 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_amazefinance has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit KGBENG has 117 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit coursecollection has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit 40krpg has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChatGPTPromptGenius has 17 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit EliteDangerous has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_abramstalker1789 has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit StockMarketTLDR has 19 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_TruthShallPrevailfan has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PromptEngineering has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit opentheo has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ProgrammingBuddies has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Wiskkey has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit mikrotik has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PinoyProgrammer has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CryptoScams has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ItalyInformatica has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit secondlife has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit slatestarcodex has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cscareerquestions has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AskComputerScience has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AWLIAS has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit arbeitsleben has 25 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Sudan has 47 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TroChuyenLinhTinh has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit algorandASA has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit chipdesign has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ElectricUnicycle has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit copywriting has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ITCareerQuestions has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit FPGA has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit arduino has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Python has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit rolex has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ECE has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit battletech has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit starfinder_rpg has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cscareerquestionsCAD has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit nyjets has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Professors has 37 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit analytics has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit squash has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit The_Profit has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit HomeNetworking has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NoStupidQuestions has 22 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Scotland has 28 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Somalia has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AusFinance has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AZURE has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit sales has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit seriea has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TI_Calculators has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Lawyertalk has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TravelHacks has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SameGrassButGreener has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit uoguelph has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit porcupinetree has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit openshift has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TrueDoTA2 has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit X4Foundations has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TeslaLounge has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit KerbalSpaceProgram has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit regulatoryaffairs has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit kubernetes has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit RocketLeagueExchange has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit UAE has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit UFOs has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Dallas has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Birmingham has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit uklaw has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ASMRScriptHaven has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit whatsthatbook has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit btc has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Eberron has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Deusex has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Overwatch has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit HPfanfiction has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CompTIA has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SS13 has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Morrowind has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit worldwarz has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Pashtun has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit JavaFX has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit okbuddychicanery has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NCIS has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Baystreetbets has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit BabbBaxCommunity has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit RobinHoodPennyStocks has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AGOTBoardGame has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit BreakPoint has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit OzMedia has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit djangolearning has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CLOV has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Afghan has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit RimWorld has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AI_Programming has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit EngineeringResumes has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit KeePass has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit antivirus has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit growmybusiness has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit InfiniteLagrange has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit socialliberalism has 73 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit learnpython has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit HeadphoneAdvice has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SCJerk has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ScienceHumour has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ethdev has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit StLouis has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit rails has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Zillennials has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit preppers has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit freefolk has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NoFap has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ghostoftsushima has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DeltaLog has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AskAcademia has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AskChatGPT4 has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit thriceexeptional has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NewsForTeens has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit QuantumAI_Insights has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CHICAGOTRIBauto has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit nottheonion has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ProfessorLayton has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Chadposting has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Ask_Lawyers has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit gunpolitics has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit reptilians has 42 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit kurzgesagt has 25 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Shitstatistssay has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit brasilivre has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AskChatGPT has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MrRobot has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MitchellAndWebb has 49 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit actuary has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit XavierRenegadeAngel has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit LinkedInLunatics has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AntiComAction has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit elonmusk has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit JustCause has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit slpGradSchool has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Nietzsche has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PoliticalDiscussion has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit tressless has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit LateStageCapitalism has 26 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ClassroomOfTheElite has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit bulgaria has 40 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit flatearth has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit howardstern has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit freemasonry has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Persecutionfetish has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ApplyingToCollege has 22 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit walkaway has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SuicideBoys has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit dostoevsky has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit sociology has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit okbuddyvowsh has 38 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit unsong has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit transgendercirclejerk has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit asd has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit canberra has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Socialism_101 has 21 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit thesmithscirclejerk has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GenUsa has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit lacan has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit HonzukiNoGekokujou has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit scythebookfans has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit florida has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit voyager has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit traaaaaaannnnnnnnnns has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit teenagers has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit fullegoism has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Crainn has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit acotar has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Anarchism has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit LouderWithCrowder has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Qult_Headquarters has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit fucktheccp has 38 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit totalwar has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit EnoughCommieSpam has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit tankiejerk has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit China has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ExCons has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TheyLieYouDie has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit lexfridman has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit mtg has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Blogging has 29 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit radioheadcirclejerk has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit titanic has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Sham_Sharma_Show has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit threekingdoms has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Gamingcirclejerk has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit mirrorsedge has 25 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NoFascismNoCommunism has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NetflixTheSociety has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit StanleyKubrick has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AIGrinding has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit attackontitan has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit vegan has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit lotrmemes has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit FATErpg has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit tacobell has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DirtyDave has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit KidCudi has 17 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit humanism has 17 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit aynrand has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AI2025 has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Kanye has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit bookscirclejerk has 17 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit genewolfe has 19 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cuba has 19 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Tau40K has 17 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit JoeRogan has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Jung has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cnawak has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit IndianDankMemes has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AskHistorians has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CreepyScaryThings has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit 2meirl4meirl has 25 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_a1111exe has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit titanfolk has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ecommerce has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit copypasta has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit bigbangtheory has 45 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ArtificialIntelliChat has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ShopifyeCommerce has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Fantasy has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AIFun has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit LordofTheMysteries has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit activism has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit askphilosophy has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ChileIA has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CasualConversation has 38 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit conlangs has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Business_Ideas has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_AdvertisingThis1424 has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit tipofmytongue has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NoPornNoProstitution has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Alnournour_ has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit StephenMiniotis has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AndrewTateUncensored has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit atunsheifilms has 53 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit IAmA has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Warhammer has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit collapse has 24 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit blackmirror has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AutisticPride has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit VietNam has 28 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit IBO has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SocialismIsCapitalism has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit 4trancirclejerk has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Teachers has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit boburnham has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit childfree has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit neoliberal has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ShitLiberalsSay has 26 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Screenwriting has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit mormon has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit monarchism has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Egypt has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit IndiaSpeaks has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CommunismMemes has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit KotakuInAction has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit unpopularopinion has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Sat has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit mongolia has 28 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit 40kLore has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit civilengineering has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SuccessionTV has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Dogfree has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit consciousness has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit YoungRoyals has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cults has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Harmontown has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit RightJerk has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit rush has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit asozialesnetzwerk has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit BSG has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit FULLPOSADISM has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ezraklein has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit exjw has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit UVALaw has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TrueAnon has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DID has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ENLIGHTENEDCENTRISM has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit RevolutionsPodcast has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit antinatalism2 has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SWN has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DebateAnarchism has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Automate has 30 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit facepalm has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Anarchy101 has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TheCulture has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit lawschooladmissions has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit FromTVEpix has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TheLastOfUs2 has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Btechtards has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit uAlberta has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit gamindustri has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit rabm has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit thethread has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TheMotte has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit maxpayne has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit skam has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit vancouver has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AskAnthropology has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit shortguys has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CPTSD has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit speed has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit utopia has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit WeTheFifth has 27 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit OpenAssistant has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit BronzeAgeMindset has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PurplePillDebate has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ConservativeKiwi has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit washingtondc has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit askanatheist has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit findapath has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit HighStrangeness has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit aiwars has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit horizon has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MAGICD has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AskALiberal has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit brasil has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit collegeresults has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit astrologyCJgatekeep has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit the1975 has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MawInstallation has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GenX has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Philippines has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit wordington has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GreenBayPackers has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Amalgam has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Piratefolk has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SouthAsianMasculinity has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit mylittlepony has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit whatstheword has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit YAPms has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit culture has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit exmuslim has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit InfraNodus has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit scarystories has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TheoriesOfEverything has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit twitter_read has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit circlebroke has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit deeplearning has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit mbti has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TakeTheJab has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Government_is_lame has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit suzerain has 57 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit shia has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DirtPoorRobins has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Dipcifica has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit prolife has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit funny has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SocialEcology has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CosmicSkeptic has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit IAmA_Tech has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Cyberpunk has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Jreg has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Judaism has 26 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit bread_irl has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit LibraryofBabel has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MemeAnalysis has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit IainMcGilchrist has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PoliticalCompassMemes has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit futurama has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit assassinscreed has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit matrix has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TimPool has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DotA2 has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit interstellar has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit solarpunk has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MoneylessEconomy has 21 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_AntiCapAlex has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DemocraticSocialism has 21 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit worldGlance has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit 2Asia4u has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit libertarianmeme has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cremposting has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TheBidenshitshow has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit librandu has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit mkd has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ADVChina has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SingaporeRaw has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit eu4 has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Kazakhstan has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit france has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Christianity has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ExpeditionaryForce has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cogsci has 32 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit agi has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit economy has 50 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit aoe3 has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Rings_Of_Power has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit WorcesterMA has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit lionelectric has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Futurism has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Tunisia has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit BurlingtonON has 17 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Hasan_Piker has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit bigdata has 26 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit LibertarianUncensored has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Kenya has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit EscapefromTarkov has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit publicdefenders has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit VictoriaBC has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Stellaris has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit aoe2 has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit neuralnetworks has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit LanguageTechnology has 16 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit croatia has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SEO has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit HydroHomies has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit buhaydigital has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Chennai has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit FluentInFinance has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PostScarcity has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit computervision has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit collapze has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit civ has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit notjustbikes has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Treaty_Creek has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit doordash has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit haiti has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit InterestingTalks has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit malaysia has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CanadianConservative has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit wallstreetfools has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit rickygervais has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit startupnews has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MHOCMeta has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Few_Instruction7648 has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit jobs has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DunderMifflin has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit falc has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit MobileLegendsGame has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit newyorkcity has 42 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit BalticStates has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit baltimore has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit marketgoats has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit generationology has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit STAR_ has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ColinAndSamir has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ideasforana has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Warthunder has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ireland has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit gameofthrones has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit accountinghumor has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GagarinNews has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit victoria3 has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cirkeltrek has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit vosfinances has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit dndmemes has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AgeofMythology has 20 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit tf2 has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_experiencenonsense has 17 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CurseofStrahd has 19 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TamilNadu has 18 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit germany has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit linkedin has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit EngineerJobs has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit pennystocks has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PennyStocksDD has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DnD has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Optionmillionaires has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Dodgers has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_EchoTik has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_swarajthorat has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Millennials has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TheAnalystEconomy has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CasualPH has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AskEconomics has 23 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit marginal has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Truckers has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit rpg has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Periodization has 24 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit decadeology has 24 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit armstrongandgetty has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit fuckcars has 11 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit LearningToThink has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit conspiracy_commons has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_MillennialEnclpd has 23 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit getdisciplined has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ForwardPartyUSA has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_DesmondMilesDant has 13 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Giova2_1 has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Life_With_Nish has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Google_Bard_Community has 7 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit greentext has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit stocks has 9 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Denver has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit india has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit RSA has 8 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Turkey has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit WayOfTheBern has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit adultingph has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit crusaderkings2 has 14 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PowerBI has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit atheism has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TSLALounge has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit bangladesh has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit argentina has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit thebulwark has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit IndiaInvestments has 6 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit crusaderkings3 has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_Mitrade_Official has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit investing has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit LawCanada has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit pittsburgh has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit OurGreenFuture has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit 2007scape has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Advice has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit scifiwriting has 12 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit starcraft has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit 6thForm has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit unitedairlines has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit hoarding has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PubTips has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit VolSignals has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit europes has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_hsaufo has 4 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit HypixelSkyblock has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit altcoin_news has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit whatcarshouldIbuy has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Crypto_Currency_News has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit me_irl has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit marketpredictors has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PoliticalCompass has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Cryptodracula has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit altcoinforum has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AIsideproject has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit zmarter has 280 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit digitalminimalism has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit trippyshorts has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AlgorandOfficial has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Bitcoin has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_JGARecruitmentGroup has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit funwithchatgpt has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit greece has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit web has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit facebook has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CloudFlare has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit vpnnetwork has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ControlProblem has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Spyware has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit todayplusplus has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit fintech has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GalaxyNote9 has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit joboglobo has 5 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SCPDeclassified has 1 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit OurFutureTech has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_batalante has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AItoday has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit gaming has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit The10thDentist has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ethfinance has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit FacebookAds has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DigitalMarketingHack has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit gekte has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PeaceEngineering has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit mutantsandmasterminds has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AceAttorney has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit LowSodiumCyberpunk has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit chutyapa has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_coinmeek has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit The_AI_Era has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit bronky has 15 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit IsraelPalestine has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit aliens has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Finland has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit nonmonogamy has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit wholesomeincest has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CrusaderKings has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ASTL_Token has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_ASTL-Token has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ConfusedMoney has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit cryptocurrencyvilla has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit videoproduction has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit videography has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit CoinwebDailySpin has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Austin has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit 90dayfianceuncensored has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit NFT has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit PersonalFinanceCanada has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Thoughts has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit hoi4 has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit AlternateHistory has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Polymath has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit RussianLiterature has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit TNG has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit u_harbingermedia has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit storieswithChatGPT has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit DiscoElysium has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit GiftofGames has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit IndiaOpen has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit ukpolitics has 2 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit Influ3nce has 10 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit SuperMarioOdyssey has 3 posts
+[2023-03-03 10:49:14] GOOD   : Subreddit crypto_podcasts_notes has 10 posts
+
+[2023-03-03 10:49:14] GOOD   : Total of 44658 comments
+
+
+################################################
+### PushShift ###
+
+time python3 PushshiftScraper.py
+
+[2023-03-03 09:48:10] GOOD   : Found a total of 2168, compared to 2501 fetched
+
+[2023-03-03 09:48:10] GOOD   : chatGPT+privacy found 367
+[2023-03-03 09:48:10] GOOD   : chatGPT+security found 819
+[2023-03-03 09:48:10] GOOD   : chatGPT+society found 845
+[2023-03-03 09:48:10] GOOD   : chatGPT+economy found 470
+
+[2023-03-03 09:48:10] GOOD   : Found a total of 1135 unque subreddits
+
+[2023-03-03 09:48:10] GOOD   : Subreddit ChatGPT has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Beneficial_Moose_Inf has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Crataco has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_thespuzz has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DefendingAIArt has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SoulmateAI has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChatGPTSucks has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit privacy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit searchessbs has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CharacterAI has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Essay_Experts has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit indepthaskreddit has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit bing has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit oasisnetwork has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit react has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit GPT_jailbreaks has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit steamsupport has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit csgomarketforum has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AskNetsec has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PromptEngineering has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit singularity has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_craigboy66 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Rizzspect has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_----chris---65 has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit OpenAI has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit blockchaindeveloper has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SaaS has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit realtech has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit technology has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChatGPTGoneWild has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_laqiraprotocol has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit newsfeedmedia has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChatGPTCoding has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AIAssistedArticles has 5 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BINGChat has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit truebit has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit GPT3 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit artificial has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit learnmachinelearning has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MachineLearning has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit replika has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CryptoTechnology has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit aiideas has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cats has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit gatewaynode has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CryptoCurrency has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit adhdwomen has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ADHD_Programmers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChatGPT4SearchEngines has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Shadowrun has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Udemy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit udemyfreebies has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit udemyfreeebies has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit OnlineAffairs has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit chrome_extensions has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit hablemosdeAI has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChaiApp has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit theplenum has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit OffMyChestPH has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit conspiracy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ArtificialInteligence has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit nyu has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CommunalShowers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit IPAddressGuide has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CharacterAi_NSFW has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit barexam has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit WriteStreakEN has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit indonesia has 4 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Showerthoughts has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit testdevcommunity has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MtF has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit WPAannouncements has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit applescript has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CryptoMarkets has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Wordpress has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit brave_browser has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit nordvpn has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PrivacySelfDefense has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cybersecurity has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit rulesme has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit GOOOOODINTERNET has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit hacksguider has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit thirstfordata has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit N_E_W_S has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit devopsish has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CryptoCurrencies has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Actu_ has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit longtail has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit evolutionReddit has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AAA_NeatStuff has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TopConspiracy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit hypeurls has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit technews has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit businesstalkdaily has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit tech has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CKsTechNews has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit privacyanddata has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SAtechnews has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit theconversation_au has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit googlebardUSA has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit smarthome has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AIDungeon has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CryptoDailyTLDR has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Jhonjournalist has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ADHD has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit JordanPeterson has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit LiveFromNewYork has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Futurology has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit techtimeradio has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit surfshark has 5 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_vinaphonelienhe has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ABCDesis has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Voice_AI has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit GalaxyS23 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit samsung has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit chatgpt_de has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_purgatorytea has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit GrowthHacking has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AppConsulting has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit zmarter has 6 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Libraries has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AIandRobotics has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit apple has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit trippyshorts has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MetaFilterMeta has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_alirezamirzabegi has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit theprivacydad has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit firefox has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Catholicism has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChatGPTPro has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_batalante has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CCSP has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit elementor has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit gdpr has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DigitalMarketing has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit limerence has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit digitalminimalism has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Marketingcurated has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Nest has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AskProgramming has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AItoday has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit advertising has 4 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit marketing has 6 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_lazymentors has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit newsbotbot has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit startup has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit adops has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit socialmedia has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit RealEstate has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit FreeEducationForAll has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Entrepreneur has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit KnowledgeFight has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Emailmarketing has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CryptoIndia has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Cricket has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit 0xPolygon has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PrivacyGuides has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ethereum has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit actuary has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BBIG has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ireland has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ladybusiness has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DigitalMarketingHack has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Socialpreneur has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit FacebookAds has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MensRights has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit consulting has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PLTR has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Domains has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit EntrepreneurRideAlong has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit gis has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CryptoCurrencyMeta has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit copypasta has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit changemyview has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit reactjs has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit japanese has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit startups has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit wallstreetbets has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit allautistics has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MLQuestions has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit datascience has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Piracy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit archlinux has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit StarWars has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit gaming has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Centrelink has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ProtocolGemini has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit autotldr has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit NewToEMS has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit nerdfighters has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit london has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Monero has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit books has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit relationship_advice has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit naughtyfromneglect has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Affairs has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_OkCook8 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit VaushV has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit fucktravel has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SpacePolicy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TheDecoder has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit 40kLore has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit developersIndia has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SCPtabletopRPG has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_shangar_look has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit isfj has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit drrcoursesscom has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit antiwork has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Business_Ideas has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit webdev has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit StockMarketTLDR has 5 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PS5_Jailbreak has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Terminator has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit msp has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MSSP has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit InfoSecNews has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit INAT has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Drugs has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SquaredCircle has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit saltynocoiners has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Gentoo has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit IASIP has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ItsAlwaysSunny has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Jung has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Hedera has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit javahelp has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Optionmillionaires has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit thefuturecrew has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TheMajorityReport has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit FetchAI_Community has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit lcx has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit offensivesecurity has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TransparentMarkets has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Buck_Joffrey has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit thecampaigntrail has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit oscp has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit powerpuffgirls has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SCP has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit rails has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Superstonk has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit shittydarksouls has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TroChuyenLinhTinh has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Angular2 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit csMajors has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit compsci has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit foreignservice has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit duckduckgo has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TreasonNetflix has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit OntarioTheProvince has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MeneamePortada has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChatGPTofficial has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ABDL has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit rpg has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit JimSterling has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PrivateInternetAccess has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit algorand has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit marginal has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MissionToZyxx has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit college has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit WGUCyberSecurity has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MBA has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SmashingSecurity has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit LowSodiumCyberpunk has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CoinwebDailySpin has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AI_Writing_Jobs has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SEO has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit copywriting has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit sysadmin has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ILoveLucy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PersonalFinanceNZ has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit homeautomation has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit sandiego has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit openai4netseceng has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit hacking has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit questions has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit aimodels has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cyberpunkred has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit LibraryofBabel has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit socialism has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ProgrammerHumor has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit programming has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AirForce has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit StLouis has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit shortcuts has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit learnpython has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Automate has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SalesforceCareers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ededdneddy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit thewalkingdead has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit premedcanada has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit seinfeld has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ottawa has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Romania has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit startrek has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit APStudents has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit fuzzing has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Haruhi has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit HiTMAN has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit computerscience has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit nanocurrency has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ITCareerQuestions has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cardano has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit vancouver has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SalesforceDeveloper has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit EckhartTolle has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit mspmedia has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MetaRunner has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BasicIncome has 4 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit hackerdigest has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit hypeurlsposts has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Accounting has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit The_AI_Era has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ReverseEngineering has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ExploitDev has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Afghan has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TrendingQuickTVnews has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AutoNewspaper has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SCMPauto has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit googleservies has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit spixnet_gmbh_official has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit bestchange has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DeadSpace has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cloudcomputing has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SS13 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BBBY has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit sweden has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit freetipsmaster has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit indiebiz has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit github has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_waynerad has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit zen has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Deusex has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TLCcommunity has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Market_Socialism has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit pakistan has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Scotland has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Meditation has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit InfiniteLagrange has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit brdev has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit RobinHoodPennyStocks has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Switzerland has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BabbBaxCommunity has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit JavaFX has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit todayilearned has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cscareerquestions has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit overpopulation has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit torchsecuritynet has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PowerShell has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Somalia has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Baystreetbets has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Low_Permission_3835 has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit arbeitsleben has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AZURE has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PaymoneyWubby has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ceo has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MrRobot has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit algorandASA has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit dogecoin has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit lifehacks has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit UFOs has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PCNews has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Enneagram has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_genjitenji has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit VeraCrypt has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit future has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Screenwriting has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit medicalschool has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cscareerquestionsEU has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit NEO has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Rifts has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AMCSTOCKS has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Xiaomi has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CCIV has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit gamedev has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Polaris198339 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit HomeNetworking has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_MrMarchi has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit jmso has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Slack has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit JurassicPark has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit solana has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PeaceEngineering has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AzureLinks has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit NoStupidQuestions has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit yorku has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cryptocurrencyvilla has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Zillennials has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit WorkOnline has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit marketgoats has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit FluentInFinance has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CollapseSupport has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit confessions has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit neography has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit WGU_CompSci has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit funwithchatgpt has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cryptoNewsAtSpotify has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit netsec has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit secondlife has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit learnprogramming has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Unmatched has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Permaculture has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit education has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit YouShouldKnow has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cybermaterial has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ASTL_Token has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_ASTL-Token has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit freelanceWriters has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BollyBlindsNGossip has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit sideloaded has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit EscapefromTarkov has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ETFs has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Aktien has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit chatGPTv4 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit farscape has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit stocks has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_crypto-crew has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_coinmeek has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit devops has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit nba has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit sales has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit coursecollection has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ThesisCapitalStocks has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit JohnFinnemore has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit chutyapa has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CompTIA has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit askphilosophy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ItalyInformatica has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cybersecurity_xyz has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Splintercell has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CryptoMoonShots has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ThePortal has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ProductManagement has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MauraMurraySub has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ffmpeg has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit UltimateTraders has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_MuLoginBrowser has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit mysql has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TheSimpsons has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SideProject has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit microsaas has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit juststart has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Newudemy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_TheOrangeBear_Com has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Charles_talks_Stock has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit comicbooks has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit StockMarket has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Anarcho_Capitalism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit free_market_anarchism has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AnarchyChess has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Hour-Loquat3236 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit de_EDV has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit KGBENG has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DataHoarder has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit 40krpg has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit EliteDangerous has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit RedditTLDR has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Winnipeg has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit berkeley has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit GamersNexus has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit pcmasterrace has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit techsupport has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Ankrofficial has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit QuestionsToChatGPT has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit QualityAssurance has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit mikrotik has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Destiny has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit make_money_online_vip has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit 2ndIntelligentSpecies has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit selfhosted has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_ajo4online has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChatGPTJailbreak has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CryptoScams has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Technoblade has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TheBlackList has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ScottSantens has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Urecomm has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit HalfLife has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit growtopia has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BreakPoint has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit halo has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChatGPTsays has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit lexfridman has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TrueReddit has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit lostgeneration has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DarkFuturology has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit economy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit YangForPresidentHQ has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Conflux_Network has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Monkees has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit djangolearning has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit aiscreenwriting has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit aboutupdates has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Alonetv has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PythonLearning has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Python has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BLAHAJ has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Dexter has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit paydaytheheist has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit All_About_Hackers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BravoRealHousewives has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit FinancialPlanning has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit lebanon has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit fivenightsatfreddys has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit JKRowling has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit GetEmployed has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_ProfessionalNo8577 has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit worldbuilding has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Firebase has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit bitcoin2024 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cyberpunk_stories has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit scarystories has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit EnoughMuskSpam has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit freebies has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit videos has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AskAcademia has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ShopifyeCommerce has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ecommerce has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SovereignNationals has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit tauchain has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ValueInvesting has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit linux has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Eberron has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit socialliberalism has 3 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit careerguidance has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit FamilyMedicine has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit milikk has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AskReddit has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit batman has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TradeNewsNow has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit oculus has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AIcontentWritingtools has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit southafrica has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BlockstarOfficial has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ControlProblem has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit rant has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit HonzukiNoGekokujou has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit NetflixTheSociety has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ethereumnoobies has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit americandad has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Constant_Acrobatic has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SCUMgame has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CasualUK has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit NewsForTeens has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DirtyDave has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit legendofkorra has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Zappa has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DeathStranding has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_UCanArtifUWant2 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit solarpunk has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Filmmakers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit worldpolitics has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit midjourney has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit StableDiffusion has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit mutantsandmasterminds has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Tunisia has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit LateStageCapitalism has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit KendrickLamar has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit washingtondc has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit unpopularopinion has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit antinatalism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit printSF has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit prolife has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit lawschooladmissions has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit pinkfloyd has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit venting has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Diary has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_anayakhan1234 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit dudesy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ApplyingToCollege has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit dalle2 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Ethiopia has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit LSAT has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Jreg has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MastersOfTheUniverse has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit pune has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Damnthatsinteresting has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit nihilism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PositiveChatGPT has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit skeptic has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit munichtechsauna has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit OurGreenFuture has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Dankmemexplorer has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CHICAGOTRIBauto has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit trans has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit neoliberal has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Teachers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MakeNudityLegal has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Fantasy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TheCulture has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit redscarepod has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit LinusTechTips has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Stellaris has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ClassroomOfTheElite has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit communism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit classical_circlejerk has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit NewIran has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Iainmbanks has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit GreatReset has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit rickandmorty has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit georgism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ezraklein has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Geosim has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit StoriesWrittenByAI has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit RussianLiterature has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit JuniorDoctorsUK has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit darktower has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit 1899 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit askanatheist has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit gurps has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SeriousConversation has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChristianSocialism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TrueAnon has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit KingkillerChronicle has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Dogfree has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Undertale has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit asklinguistics has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Artlandis has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit frontburner has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DnD has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit HPfanfiction has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Itz_Arix has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Megaten has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit lebowski has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Vlad-1s-lav has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PurplePillDebate has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DeepThoughts has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MonsterMusume has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit bleach has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit bollywood has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CrimsonNecklace has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit writing has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Musicthemetime has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit aspergers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AdamCurtis has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit atrioc has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Deleuze has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit asexuality has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit scifi has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit mormon has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit FreeSpeech has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit gaymers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit bladesinthedark has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit KotakuInAction has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit brasil has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Ethics has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_FrameworkisDigimon has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit gameofthrones has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit RevolutionsPodcast has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit billsimmons has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit generationology has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit aggies has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit HighStrangeness has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ElectricUnicycle has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TwoXChromosomes has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AskChatGPT has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AskALiberal has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit atheism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit preppers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit crypto_podcasts_notes has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BallbustingStories has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit exjw has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Gamingcirclejerk has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PCJoke has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit scifiwriting has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit gaybros has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit childrensbooks has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit HFY has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DC_Cinematic has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cults has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AskLibertarians has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit fuckcars has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit battletech has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AceAttorney has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Newsoku_L has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit shia has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit INT3GRITY has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SocialEcology has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TimPool has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit NoFap has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BingAi has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit dogs has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit voyager has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SuicideBoys has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit dwarffortress has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit exmuslim has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Blogging has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_KATLBEAN has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit matrix has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_MasterChatGPT has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit taludturangLumbay has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit YAPms has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DotA2 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TheoriesOfEverything has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit mongolia has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit fucktheccp has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit findapath has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit circlebroke has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit assassinscreed has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Chennai has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit VietNam has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit explainlikeimfive has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit GilmoreGirls has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit UXDesign has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit IAmA_Tech has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit IAmA has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit beatless has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit subreddit_simulacrum has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChatGPTandGod has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AskChatGPT4 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit mountainview has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit sociology has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Watchmen has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_harbingermedia has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit thriceexeptional has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit aiconvolibrary has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_jay__voorhees has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit FolkPunk has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit thelastofus has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ThelastofusHBOseries has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MoorsMurders has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit sciencefiction has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AskHistorians has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit 0conspiracy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit civilengineering has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit trainspotting has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit storieswithChatGPT has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Berserk has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AO3 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TerrifyingAsFuck has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Scream has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Advice has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit threekingdoms has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ghostoftsushima has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit OCPoetry has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit glasgow has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ProfessorChatGPT has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit legal has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit discworld has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit IsaacArthur has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Psychonaut has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit transhumanism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_petterson76 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SoftwareEngineering has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit OnePiece has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit witcher has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit LibertarianUncensored has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit bladerunner has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit chatGPTGW has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DragonMaid has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Natalism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_dexbrand has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit interstellar has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Influ3nce has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit WrittenRoleplay has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit dirtypenpals has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit languagelearning has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit KidCudi has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit bookscirclejerk has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cuba has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit humanism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit genewolfe has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit englishteachers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit StephenMiniotis has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChatGptDAN has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ChatGPTPromptGenius has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ExCons has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Tau40K has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CapitalismVSocialism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DystopianFuture has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit howardstern has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit titanfolk has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit recruitinghell has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Ask_Lawyers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit skam has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cremposting has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit exmormon has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit activism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Squarepusher has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Fire has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit sorceryofthespectacle has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Avatar has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit gunpolitics has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit aynrand has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit China has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit mirrorsedge has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit titanic has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AI2025 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit IncelExit has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit southpark has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CPTSD has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Socialism_101 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit JustCause has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ArtificialIntelliChat has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit india has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit whiteboydiscussion has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Professors has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit WeTheFifth has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BDSMcommunity has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit QOS has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Alnournour_ has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BronzeAgeMindset has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CasualConversation has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AlternateHistory has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Longjumping-Age5373 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MawInstallation has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CosmicSkeptic has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit EnoughCommieSpam has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit asozialesnetzwerk has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DirtPoorRobins has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit antinatalism2 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit masculinityRevisited has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MrBeast has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit taiwan has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit JoeRogan has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SanJose has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit denofmasculinity has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit sissyGOONED has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SissyInspiration has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit offmychest has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ScamNumbers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Nietzsche has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DowntonAbbey has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit reptilians has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Judaism has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_MillennialEnclpd has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ukpolitics has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DeltaLog has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_a1111exe has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit transgendercirclejerk has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit exchristian has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit premed has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DaystromInstitute has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit StanleyKubrick has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit bulgaria has 2 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit WritingPrompts has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit rethinkArt has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit lacan has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ideator has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit redrising has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ArtistLounge has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Yellowjackets has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit betterCallSaul has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AndrewTateUncensored has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit xmen has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit freemasonry has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PoliticalCompassMemes has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit learneralways has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_StatisticianSad6853 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit aliens has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit pennystocks has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CountryMusicStuff has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cdcph has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit WIMI has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit intersex has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit crusaderkings2 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CrusaderKings has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit neuralnetworks has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cogsci has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit agi has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit deeplearning has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit LanguageTechnology has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit machinelearningnews has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit data has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit eu4 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit STAR_ has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit investing has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit EarlyMachineLearning has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit victoria3 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Morocco has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit fantasywriters has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Arbitrum has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit fresno has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ColinAndSamir has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit fatFIRE has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TNG has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit LawCanada has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MHOCMeta has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit earthbound has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit marketpredictors has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit baltimore has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit buhaydigital has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Warthunder has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit thebulwark has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit adultingph has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit brockhampton has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Purtle has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit freefolk has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Hasan_Piker has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_experiencenonsense has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Futurism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DemocraticSocialism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MoneylessEconomy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit DebateCommunism has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ZeroWaste has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_AntiCapAlex has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CurseofStrahd has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit bigdata has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BusinessIntelligence has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit computervision has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit linkedin has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit germany has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Dodgers has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit BurlingtonON has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit slatestarcodex has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TrillionaireMindsPod has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit aoe2 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit getdisciplined has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Eve has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PennyStocksDD has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit lionelectric has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit CasualPH has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit suzerain has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit TheAnalystEconomy has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Periodization has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit decadeology has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit LearningToThink has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_EchoTik has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit cigars has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit GrayWolfOnStocks has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit OutOfTheLoop has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AskEconomics has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Few_Instruction7648 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ForwardPartyUSA has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ontario has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit wallstreetfools has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Giova2_1 has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_DesmondMilesDant has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Life_With_Nish has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_eatmoreicecream has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit startupnews has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit SilverDegenClub has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_technicalbeep has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Bitcoin has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit VictoriaBC has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit MediaSynthesis has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit PuertoRico has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Buttcoin has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit softwareengineer has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_Mitrade_Official has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit altcoin_news has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Crypto_Currency_News has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit conspiracy_commons has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Cryptodracula has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit 6thForm has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit EnergyAndPower has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit NyaSenPubications has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit jobs has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit nosleep has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_hsaufo has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit FutureWhatIf has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit AIsideproject has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit pittsburgh has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Aff_Marketing has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit WayOfTheBern has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit publicdefenders has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ConfusedMoney has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Healthygamergg has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit u_cryptograndee has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit rickygervais has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ukraine has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit ExperiencedDevs has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit worldGlance has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit videoproduction has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit Suomi has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit HypixelSkyblock has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit doordash has 1 posts
+[2023-03-03 09:48:10] GOOD   : Subreddit civ has 1 posts
+
+real	0m46,573s
+user	0m1,030s
+sys	0m0,066s
+
+
+
+###############
+# Comparison
+
+
+Union 3850
+Intersection 1019
+Only in Reddit api 1680
+Only in PushShift 1151
+
+PushShift
+[2023-03-03 11:47:28] GOOD   : Alive posts 622
+[2023-03-03 11:47:28] ERROR  : Dead posts 511
+
+some missing

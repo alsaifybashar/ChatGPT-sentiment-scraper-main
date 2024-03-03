@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Other ignore
+conf.ini
+logg.txt
+
+# env ignore
+env/
